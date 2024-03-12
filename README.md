@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android,Learn React,Centre for Open &Distance Learning (CODL) -University of Moratuwa, Sri Lanka**
 
-- 💬 Ask me about **PHP,JAVA,HTML,CSS,JAVA SCERIPTS,SQL**
+- 💬 Ask me about **PHP,JAVA,HTML,CSS,JAVA SCERIPTS,SQL,Jira,Selenium,Manual Testing**
 
 - 📫 How to reach me **herathhashi7@gmail.com**
 
