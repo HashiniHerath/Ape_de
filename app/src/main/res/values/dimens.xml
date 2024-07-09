@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="hello_you">36sp</dimen>
+    <dimen name="description">14sp</dimen>
+    <dimen name="login_btn">14sp</dimen>
+    <dimen name="registration_btn">14sp</dimen>
+    <dimen name="login_header">24sp</dimen>
+    <dimen name="login_description">14sp</dimen>
+    <dimen name="text_input_edit_text1">14sp</dimen>
+    <dimen name="text_input_edit_text2">14sp</dimen>
+    <dimen name="login_btn2">14sp</dimen>
+    <dimen name="register_btn2">14sp</dimen>
+    <dimen name="create_an_account_header">24sp</dimen>
+    <dimen name="text_input_edit_text3">14sp</dimen>
+    <dimen name="register_btn" />
+    <dimen name="hello_seller">36sp</dimen>
+    <dimen name="create_your_store">14sp</dimen>
+
+</resources>
